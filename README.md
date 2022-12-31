@@ -1,3 +1,5 @@
+개발 팁은 https://github.com/windbird123/petclinic#%EA%B0%9C%EB%B0%9C-%EA%B0%80%EC%9D%B4%EB%93%9C 참고
+
 # Scala.js with sbt, Vite, Laminar and Chart.js
 https://github.com/sjrd/scalajs-sbt-vite-laminar-chartjs-example
 
